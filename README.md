@@ -1,6 +1,6 @@
 # Neon Pursuit
 
-Policiers contre coureurs, en multijoueur, dans une ville cyberpunk de nuit (vue isométrique).
+Régulateurs contre coureurs, en multijoueur, dans une ville cyberpunk de nuit (vue isométrique).
 
 ## Télécharger
 
@@ -23,6 +23,6 @@ maison). Clique sur **Informations complémentaires**, puis **Exécuter quand m�
 ## But du jeu
 
 - **Coureurs** : rejoindre la planque avant la fin du chrono sans se faire arrêter.
-- **Policiers** : taser un coureur, le menotter, le ramener au QG de la police.
+- **Régulateurs** : taser un coureur, le menotter, le ramener au QG de la régulation.
 
 Version de test : ce dépôt ne contient que la page de téléchargement.
